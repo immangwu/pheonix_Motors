@@ -1,0 +1,36 @@
+body {
+  /*background-color: powderblue;*/
+  background-image: url('bg.jpg');
+}
+h1 {
+  color:red;font-family: verdana;font-size:80px;
+}
+h2 {
+  font-family: courier;color:blue;font-size:40px;/*background-color:rgb(255, 234, 71);padding: 30px;margin: 50px;border:2px solid Tomato;*/
+}
+h3 {
+  color:white; 
+}
+p {
+  color: black;
+}
+img {
+  width:100px;height:125px;float:left;
+}
+table {
+  width: 100%;color:white; 
+}
+table, th, td {
+  border: 1px solid;border-radius: 10px;
+}
+
+
+td {
+  text-align: center;
+}
+table.table1 {
+  width: 100%;color:white;border: 1px solid; border-style: hidden;
+}
+h3 {
+
+font-size: 30px;}
